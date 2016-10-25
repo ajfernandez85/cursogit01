@@ -1,0 +1,7 @@
+#Ignore this files
+
+*.exe
+*.obj
+
+src/**/*.js
+!src/*.js
